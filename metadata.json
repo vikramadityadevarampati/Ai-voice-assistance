@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AIFoodie - Voice Ordering Assistant",
+  "description": "An AI-powered food ordering application that allows users to place orders from their favorite restaurants using voice commands. The app parses speech, confirms the order, and provides a seamless, hands-free ordering experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
